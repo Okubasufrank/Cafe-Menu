@@ -10,6 +10,14 @@ h1, h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
 .menu {
     width: 80%;
     background-color: burlywood;
@@ -30,4 +38,8 @@ h1, h2{
 }
 .item p{
     display: inline-block;
+}
+
+.established {
+    font-style: italic;
 }
