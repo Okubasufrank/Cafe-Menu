@@ -13,6 +13,8 @@ h1, h2{
 
 h1 {
     font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
 }
 
 h2 {
@@ -58,6 +60,11 @@ hr {
     margin-top: 25px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* FOOTER */
 footer{
     font-size: 14px;
@@ -68,7 +75,7 @@ a {
 }
 
 a:visited {
-    color: grey;
+    color: black;
 }
 
 a:hover {
@@ -76,5 +83,9 @@ a:hover {
 }
 
 a:active {
-    color: white;
+    color: brown;
+}
+
+.address {
+    margin-bottom: 5px; 
 }
